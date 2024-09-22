@@ -1,5 +1,7 @@
 # python-to-unity
 
+Small example of a project I did about sending python data to Unity.
+
 ### Prerequisites
 
 You will need both Unity and Python installed on your pc to run this. I recommend using conda if you are using packages in your python script. Remember to install your packages in the right environment. 
